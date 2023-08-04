@@ -1,0 +1,3 @@
+#!/bin/bash
+previous_dir="$PWD"
+cd "$OLDPWD"
